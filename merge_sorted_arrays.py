@@ -44,3 +44,4 @@ def merge_sorted2(lst1, lst2):
         current_index_merge += 1
 
     return merge_lst
+    
