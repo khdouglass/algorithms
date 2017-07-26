@@ -13,6 +13,7 @@ def bracket_validator(equation):
             else:
                 return False
 
+    # returns True or False
     return bracket_list == []
 
 def is_valid(code):
